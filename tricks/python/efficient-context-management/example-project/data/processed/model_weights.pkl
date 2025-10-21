@@ -1,0 +1,11 @@
+# Simulated pickle file containing model weights
+# This would be binary data in reality
+# These files can be very large (hundreds of MBs or GBs)
+
+MODEL_TYPE = "RandomForestClassifier"
+WEIGHTS = "Binary serialized model weights would be here"
+PARAMETERS = {
+    "n_estimators": 100,
+    "max_depth": 10,
+    "random_state": 42
+}

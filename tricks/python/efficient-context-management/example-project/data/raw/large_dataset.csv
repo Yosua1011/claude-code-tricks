@@ -1,0 +1,10 @@
+id,feature1,feature2,feature3,feature4,target
+1,0.234,0.567,0.891,0.123,1
+2,0.456,0.789,0.012,0.345,0
+3,0.678,0.901,0.234,0.567,1
+4,0.890,0.123,0.456,0.789,0
+5,0.012,0.345,0.678,0.901,1
+# ... simulating a large dataset with many rows
+# In reality, this file would have thousands of rows
+# and would significantly slow down Claude's file reading
+# This is exactly the type of file you want to exclude with .claudeignore
