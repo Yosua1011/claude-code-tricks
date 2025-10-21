@@ -8,6 +8,8 @@ A collection of practical workflows to improve your Claude Code coding experienc
 
 **[Prevent Pip Package Version Lock](./tricks/python/prevent-pip-package-version-lock/)** - Stop Claude Code from getting stuck with outdated package versions using Context7 and dynamic version management
 
+**[Efficient Context Management](./tricks/python/efficient-context-management/)** - Optimize Claude Code performance by excluding virtual environments, cache files, and build artifacts using .claudeignore
+
 ## How to Use
 
 Each trick includes:

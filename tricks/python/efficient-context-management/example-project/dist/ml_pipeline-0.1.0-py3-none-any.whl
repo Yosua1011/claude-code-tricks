@@ -1,0 +1,7 @@
+# Simulated wheel distribution file
+# This would be a binary/zip file in reality
+# Created by: python -m build
+
+PKG-INFO
+METADATA
+WHEEL_FILE_DATA
